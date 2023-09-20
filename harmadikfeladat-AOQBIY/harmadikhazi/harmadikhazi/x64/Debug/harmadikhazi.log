@@ -1,0 +1,40 @@
+﻿  Apartment.cpp
+  FamilyApartment.cpp
+  Flat.cpp
+C:\Users\Ábel\Desktop\Egyetem-round-four\C++\Hazik\harmadikfeladat-AOQBIY\harmadikhazi\harmadikhazi\Flat.cpp(22,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ábel\Desktop\Egyetem-round-four\C++\Hazik\harmadikfeladat-AOQBIY\harmadikhazi\harmadikhazi\Flat.cpp(40,9): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  Garage.cpp
+C:\Users\Ábel\Desktop\Egyetem-round-four\C++\Hazik\harmadikfeladat-AOQBIY\harmadikhazi\harmadikhazi\Garage.cpp(15,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ábel\Desktop\Egyetem-round-four\C++\Hazik\harmadikfeladat-AOQBIY\harmadikhazi\harmadikhazi\Garage.cpp(23,38): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  harmadikhazi.cpp
+  Owner.cpp
+C:\Users\Ábel\Desktop\Egyetem-round-four\C++\Hazik\harmadikfeladat-AOQBIY\harmadikhazi\harmadikhazi\Owner.cpp(97,48): warning C4244: 'argument': conversion from '_Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ábel\Desktop\Egyetem-round-four\C++\Hazik\harmadikfeladat-AOQBIY\harmadikhazi\harmadikhazi\Owner.cpp(97,39): warning C4244: 'argument': conversion from '_Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ábel\Desktop\Egyetem-round-four\C++\Hazik\harmadikfeladat-AOQBIY\harmadikhazi\harmadikhazi\Owner.cpp(99,63): warning C4244: 'argument': conversion from '_Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ábel\Desktop\Egyetem-round-four\C++\Hazik\harmadikfeladat-AOQBIY\harmadikhazi\harmadikhazi\Owner.cpp(99,54): warning C4244: 'argument': conversion from '_Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ábel\Desktop\Egyetem-round-four\C++\Hazik\harmadikfeladat-AOQBIY\harmadikhazi\harmadikhazi\Owner.cpp(99,45): warning C4244: 'argument': conversion from '_Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Ábel\Desktop\Egyetem-round-four\C++\Hazik\harmadikfeladat-AOQBIY\harmadikhazi\harmadikhazi\Owner.cpp(114,19): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Rental.cpp
+  SemiDetachedHouse.cpp
+  Generating Code...
+  harmadikhazi.vcxproj -> C:\Users\Ábel\Desktop\Egyetem-round-four\C++\Hazik\harmadikfeladat-AOQBIY\harmadikhazi\x64\Debug\harmadikhazi.exe
