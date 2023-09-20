@@ -1,0 +1,17 @@
+vectorról szükséges:
+
+méret--size
+
+kapacitás--capacity
+
+méret =< kapacitás
+
+data- a heap memória területen
+
+
+1)default constructor
+2)destructor
+3)copy constructor
+4)copy assignment opeartor
+5)move...
+6)......
