@@ -1,0 +1,5 @@
+﻿  Fractional.cpp
+  harmadikgyakorlat.cpp
+  Generating Code...
+C:\Users\Ábel\Desktop\Egyetem-round-four\C++\gyakorlatok\harmadikgyakorlat\harmadikgyakorlat\Fractional.cpp(74): warning C4715: 'Fractional::Parse': not all control paths return a value
+  harmadikgyakorlat.vcxproj -> C:\Users\Ábel\Desktop\Egyetem-round-four\C++\gyakorlatok\harmadikgyakorlat\x64\Debug\harmadikgyakorlat.exe
